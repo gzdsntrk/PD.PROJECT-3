@@ -1,0 +1,118 @@
+
+
+.Items-1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: xx-large;
+}
+
+button {
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 15px yellow;
+    margin-left: 38%;
+    margin-right: 38%;
+    cursor: pointer;
+}
+
+i {
+    margin-left: 90%;
+}
+
+body {
+    background-color: coral;
+ }
+
+.menu {
+    list-style-type: none;
+    font-family: 'Dancing Script', cursive;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    cursor: pointer;  
+    width: 94%;
+    
+    
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu-2 {
+    list-style-type: none;
+}
+
+.img {
+    border-radius: 200px;
+    margin: 20px;
+    width: 350px;
+    height: 350px;
+    box-shadow: 2px 2px 15px  yellow;
+    margin-top: auto;
+
+}
+
+.İtems-1{
+font-family: 'Dancing Script', cursive;
+font-size: xx-large;
+margin-left: auto;
+margin-right: auto;
+width: 45%;
+
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin-top: -28%;
+    width: 85%;
+}
+
+ul li {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    background-color: antiquewhite;
+    border-radius: 35%;
+}
+
+
+
+.social-media {
+    position: absolute;
+    top: 90%;
+    left: 60%;
+}
+
+.social-media  {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 10%;
+    
+}
+
+.connection {
+    position: absolute;
+    top: 87%;
+    left: 55%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
