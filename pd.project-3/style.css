@@ -32,10 +32,24 @@ body {
     flex-direction: row;
     justify-content: space-around;
     cursor: pointer;  
-    width: 94%;
-    
-    
+    width: 94%;   
 }
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.menu li {
+    margin: 0 5px;
+    border-radius: 5px;
+    width: 20%;
+    background-color: antiquewhite;
+    border-radius:5px;
+    text-align: center;
+    padding: 5px 0;
+}
+
 
 ul li a {
     text-decoration: none;
@@ -72,12 +86,14 @@ h2 {
     width: 85%;
 }
 
-ul li {
+.recipe li {
     margin-left: auto;
     margin-right: auto;
     width: 20%;
     background-color: antiquewhite;
-    border-radius: 35%;
+    border-radius: 5%;
+    margin-bottom: 15px;
+    padding: 5px;
 }
 
 
